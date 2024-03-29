@@ -57,7 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/leonardraglin/Honey-Pot.git">Honey Pot</a>
-- <a href="https://github.com/leonardraglin/Honey-Pot.git">Honey Pot</a>
-- <a href="https://github.com/leonardraglin/Honey-Pot.git">Honey Pot</a>
-- <a href="https://github.com/leonardraglin/Honey-Pot.git">Honey Pot</a>
-- <a href="https://github.com/leonardraglin/Honey-Pot.git">Honey Pot</a>
+- <a href="https://github.com/leonardraglin/Detection-Lab.git">Detection Lab</a>
+- <a href="https://github.com/leonardraglin/Linux-Projects.git">Linux Projects</a>
+- <a href="https://github.com/leonardraglin/Python-Projects.git">Python Projects</a>
+- <a href="https://github.com/leonardraglin/Traffic-Analysis-Projects.git">Traffic Analysis Projects</a>
